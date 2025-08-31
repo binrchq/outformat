@@ -1,4 +1,4 @@
-module github.com/binrclab/outformat
+module github.com/binrchq/outformat
 
 go 1.24.1
 
